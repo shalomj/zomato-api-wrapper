@@ -1,0 +1,27 @@
+{
+    "name": "shalompeace/zomato-api-wrapper",
+    "description": "PHP wrapper and library for Zomato API",
+    "homepage": "https://github.com/ShalomPeace/zomato-api-wrapper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shalom Jerusalem",
+            "email": "jerusalemshalom23@gmail.com"
+        }
+    ],
+    "keywords": [
+        "zomato", 
+        "api", 
+        "php", 
+        "wrapper", 
+        "library"
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    }, 
+    "autoload": {
+        "psr-4": {
+            "Zomato\\": "src/Zomato/"
+        }
+    }
+}
