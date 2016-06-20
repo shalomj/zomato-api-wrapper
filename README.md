@@ -8,7 +8,7 @@ PHP wrapper for Zomato API
 
 ## Installation
 
-** Via Composer **
+**Via Composer**
 
 ```shell
 $ composer required shalompeace/zomato-api-wrapper
