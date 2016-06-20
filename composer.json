@@ -23,5 +23,6 @@
         "psr-4": {
             "Zomato\\": "src/Zomato/"
         }
-    }
+    }, 
+    "minimum-stability": "stable"
 }
