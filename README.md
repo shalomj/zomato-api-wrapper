@@ -11,5 +11,5 @@ PHP wrapper for Zomato API
 **Via Composer**
 
 ```shell
-$ composer required shalompeace/zomato-api-wrapper
+$ composer require shalompeace/zomato-api-wrapper
 ```
